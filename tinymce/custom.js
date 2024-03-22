@@ -62,7 +62,9 @@
       editor.addShortcut('alt+f', 'Featured shortcut', function () {
         editor.formatter.toggle('featured');
       });
-
+      editor.addShortcut('alt+c', 'Custom Class shortcut', function () {
+        promptForClass(editor);
+      });
     }
   });
 

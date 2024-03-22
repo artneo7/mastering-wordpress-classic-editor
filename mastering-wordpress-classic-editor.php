@@ -2,7 +2,7 @@
 /*
 Plugin Name: Mastering WordPress Classic Editor
 Description: Add custom buttons to the WordPress Classic editor
-Version: 0.1
+Version: 0.2
 Author: Andre Esteves Perrone
 */
 
