@@ -1,0 +1,17 @@
+.blue {
+  color: blue;
+}
+.featured {
+  color: #797979;
+  font-size: 1.25rem;
+  border-radius: 6px;
+  padding: 32px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, .1);
+  background-color: #fff;
+  display: grid;
+  gap: 1rem;
+}
+
+.featured p {
+  margin: 0;
+}
